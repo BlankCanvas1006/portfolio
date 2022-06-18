@@ -1,6 +1,6 @@
 ![](portfolio_sc.png)
 ![](profile_pic.jpg)
-
+https://github.com/BlankCanvas1006/portfolio
 <h1>Shantaye Guy</h1>
 <hr><p>First attempt at a professional portfolio.</p><h2>General Information</h2>
 <hr><ul>
