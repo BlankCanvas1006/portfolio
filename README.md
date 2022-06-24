@@ -23,7 +23,7 @@ https://blankcanvas1006.github.io/portfolio/
 <li>More links to web applications will be added as I complete them.</li>
 </ul><h2>Features that can be added</h2>
 <hr><ul>
-<li>As the new web applications are being added,I will also add new screenshots.</li>
+<li>As the new web applications are being added, I will also add new screenshots.</li>
 </ul><h2>Acknowledgement</h2>
 <hr><ul>
 <li>This project was inspired by my instructors as well as my husband and children!</li>
